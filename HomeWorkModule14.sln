@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkModule14", "HomeWorkModule14\HomeWorkModule14.csproj", "{5713B974-52BC-471E-8508-97803CDE38EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordStatisticsAnalyzer", "WordStatisticsAnalyzer\WordStatisticsAnalyzer.csproj", "{0A29E17D-A4B1-48C4-B6F6-DD1281E5697D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5713B974-52BC-471E-8508-97803CDE38EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5713B974-52BC-471E-8508-97803CDE38EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5713B974-52BC-471E-8508-97803CDE38EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5713B974-52BC-471E-8508-97803CDE38EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A29E17D-A4B1-48C4-B6F6-DD1281E5697D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A29E17D-A4B1-48C4-B6F6-DD1281E5697D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A29E17D-A4B1-48C4-B6F6-DD1281E5697D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A29E17D-A4B1-48C4-B6F6-DD1281E5697D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7CB6384-F5D4-4035-A4B8-97BD40C08108}
+	EndGlobalSection
+EndGlobal
